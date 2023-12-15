@@ -34,13 +34,13 @@ async def ticket(ctx):
         description="Click on the button bellow to create a ticket",
         color=discord.Color.from_rgb(255,255,255)
     )
-    embed.set_footer(text="Ticket tool by Younesdev12")
+    embed.set_footer(text="Ticket System By Younesdev0")
     embed2 = discord.Embed(
         title="An admin will be with you shortly!",
         description="If you wish to close the ticket click on the button bellow",
         color=discord.Color.from_rgb(255,255,255)
     )
-    embed2.set_footer(text="Ticket tool by Younesdev12")
+    embed2.set_footer(text="Ticket System By Younesdev0")
 
     #buttons    
     close.callback = close_ticket    
