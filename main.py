@@ -51,4 +51,4 @@ async def ticket(ctx):
     view2.add_item(close)
    
     await ctx.channel.send(embed=embed, view=view)
-client.run("MTE4NDY0MzQ4MzEzMTIwMzU5NA.GpONJV.Yx-ymL8MyP9gDIwzWdlVSYxKKYLrZ0eBu376Iw")
+client.run("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
